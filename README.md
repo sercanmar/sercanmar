@@ -1,5 +1,5 @@
 **Antes de nada, repasa los comandos básicos de git:**
-[Apuntes GIT](https://github.com/sercanmar/sercanmar#git)
+[Apuntes GIT](https://github.com/sercanmar/sercanmar/blob/main/git.md)
 
 **SCM**
 *1-CFGS* ### 1-DAW
@@ -24,12 +24,16 @@
 - ![TUX](https://www.markdownguide.org/assets/images/tux.png)
 8. Sintaxis extendida:
 - taula:
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
 - codigo de mas de una línea:
+
 { "firstName": "John", "lastName": "Smith", "age": 25 }
+
 - nota al pie:
 Esta es una frase amb un nota al peu. [^1]
 
