@@ -1,3 +1,6 @@
+**Antes de nada, repasa los comandos básicos de git:**
+[Apuntes GIT](https://github.com/sercanmar/sercanmar#git)
+
 **SCM**
 *1-CFGS* ### 1-DAW
 1. Tipos de H:
